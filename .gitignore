@@ -1,4 +1,4 @@
 /node_modules
 /.idea
-/src/images
-/dist/images
+/dist
+.DS_STORE
